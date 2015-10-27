@@ -16,9 +16,9 @@ Date: October 27, 2015
 
 Special thanks go to my supervisor, Joe and my colleagues for helping me get this to work:
 
-Joseph Shubitowski, Head, Library Info. Systems<br/>
-Ruth Cuadra, Bus Applications Administrator<br/>
-Joshua Gomez, Software Engineer Sr<br/>
+Joseph Shubitowski, Head, Library Information Systems<br/>
+Ruth Cuadra, Business Applications Administrator<br/>
+Joshua Gomez, Software Engineer Senior<br/>
 Lawrence Olliffe, Software Engineer
 
 Note: You will need to copy the attached saxon9he.jar file to the following directory: /exlibris/primo/newTitles

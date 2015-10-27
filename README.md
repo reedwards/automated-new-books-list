@@ -21,4 +21,4 @@ Ruth Cuadra, Business Applications Administrator<br/>
 Joshua Gomez, Software Engineer Senior<br/>
 Lawrence Olliffe, Software Engineer
 
-Note: You will need to copy the attached saxon9he.jar file to the following directory: /exlibris/primo/newTitles
+Note: You will need to copy the source code and the saxon9he.jar file to the following directory: /exlibris/primo/newTitles

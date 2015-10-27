@@ -3,7 +3,7 @@ Automated New Books List for Primo
 
 Created by: 
 
-Ryan Edwards
+Ryan Edwards</br>
 Digital Access and Systems Librarian
 Getty Research Institute
 reedwards@getty.edu 

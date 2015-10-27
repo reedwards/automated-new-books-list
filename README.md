@@ -13,4 +13,8 @@ Description: A means to create an automated New Books list for Primo, which appe
 
 Working New Books List: http://primo.getty.edu/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=all_gri&indx=1&dum=true&srt=rank&vid=GRI&frbg=&vl%28freeText0%29=getty_newbooks&scp.scps=scope%3A%28GETTY_NEWBOOKS%29%2Cscope%3A%28GRI_RA%29&vl%2880431211UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%2821781791UI0%29=any&vl%2821781791UI0%29=title&vl%2821781791UI0%29=any 
 
-Special thanks go to my supervisor Joseph Shubitowski, Head, Library Info. Systems, and my colleagues, Ruth Cuadra, Bus Applications Administrator, Joshua Gomez, Software Engineer Sr, and Lawrence Olliffe, Software Engineer for helping me get this to work.
+Special thanks go to my supervisor Joe and my colleagues for helping me get this to work:
+Joseph Shubitowski, Head, Library Info. Systems
+Ruth Cuadra, Bus Applications Administrator
+Joshua Gomez, Software Engineer Sr
+Lawrence Olliffe, Software Engineer

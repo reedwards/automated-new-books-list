@@ -25,12 +25,12 @@ Special thanks go to my supervisor, Joe and colleagues for helping me get this t
 
 Our [process](https://cloud.githubusercontent.com/assets/15346304/10766824/7f731940-7c96-11e5-9697-3f96376b2477.png) is outlined in the steps below:
 
-Step 1: Create the [Alma Analysis](https://github.com/reedwards/automated-new-books-list/wiki/Step 1: Create Alma Analysis).
+> Step 1: Create the [Alma Analysis](https://github.com/reedwards/automated-new-books-list/wiki/Step 1: Create Alma Analysis).
 
-Step 2: Create a free [Box.com account](https://github.com/reedwards/automated-new-books-list/wiki/Step 2: Create Box.com account).
+> Step 2: Create a free [Box.com account](https://github.com/reedwards/automated-new-books-list/wiki/Step 2: Create Box.com account).
 
-Step 3: [Manage](https://github.com/reedwards/automated-new-books-list/wiki/Step 3: Manage Alma Analysis) your Alma Analysis.
+> Step 3: [Manage](https://github.com/reedwards/automated-new-books-list/wiki/Step 3: Manage Alma Analysis) your Alma Analysis.
 
-Step 4: Get the [code](https://github.com/reedwards/automated-new-books-list/wiki/Step 4: Get the Code).
+> Step 4: Get the [code](https://github.com/reedwards/automated-new-books-list/wiki/Step 4: Get the Code).
 
-Step 5: Customize the Primo [Back Office](https://github.com/reedwards/automated-new-books-list/wiki/Step 5: Customize Back Office).
+> Step 5: Customize the Primo [Back Office](https://github.com/reedwards/automated-new-books-list/wiki/Step 5: Customize Back Office).

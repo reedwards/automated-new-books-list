@@ -17,6 +17,7 @@ rm /exlibris/primo/newTitles/bibs.sh
 rm /exlibris/primo/newTitles/booksReceived.txt
 rm /exlibris/primo/newTitles/mmsids.txt
 rm /exlibris/primo/newTitles/mmsids_wolabel.txt
+# rm /exlibris/primo/newTitles/booksReceived.xml
  
 #remove bibrec*.xml in /exlibris/primo/newTitles/records
 rm /exlibris/primo/newTitles/records/*.xml

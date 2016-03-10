@@ -21,7 +21,7 @@ Special thanks go to my supervisor, Joe and colleagues for helping me get this t
 > Joshua Gomez, Software Engineer Senior<br/>
 > Lawrence Olliffe, Software Engineer
 
-**Working New Books List:** http://primo.getty.edu/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=all_gri&indx=1&dum=true&srt=rank&vid=GRI&frbg=&vl%28freeText0%29=getty_newbooks&scp.scps=scope%3A%28GETTY_NEWBOOKS%29%2Cscope%3A%28GRI_RA%29&vl%2880431211UI1%29=all_items&vl%281UIStartWith0%29=contains&vl%2821781791UI0%29=any&vl%2821781791UI0%29=title&vl%2821781791UI0%29=any
+**[Working New Books List](http://primo.getty.edu/primo_library/libweb/action/search.do?ct=facet&fctN=facet_local38&fctV=All+Books+Received+in+the+Last+7+Days&rfnGrp=1&rfnGrpCounter=1&frbg=&vl%2896033584UI1%29=all_items&&indx=1&fn=search&dscnt=0&scp.scps=scope%3A%28GETTY_NEWBOOKS%29%2Cscope%3A%28GRI_RA%29&vl%281UIStartWith0%29=contains&vl%2821781791UI0%29=any&mode=Basic&vid=GRI&ct=search&srt=rank&tab=all_gri&dum=true&vl%28freeText0%29=getty&dstmp=1457549124995etty&dstmp=1457549124995)**
 
 Our [process](https://cloud.githubusercontent.com/assets/15346304/10766824/7f731940-7c96-11e5-9697-3f96376b2477.png) is outlined in the steps below:
 

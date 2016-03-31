@@ -12,7 +12,7 @@
 
 **Problem:** There is no New Books feature in Primo like we used to have in [Voyager](https://cloud.githubusercontent.com/assets/15346304/10766842/96c6977a-7c96-11e5-9ec3-5c12ca0b34c6.png).  Furthermore, one can only search an [Alma RSS feed](https://cloud.githubusercontent.com/assets/15346304/10766812/7562d90e-7c96-11e5-9002-2cd9ea096bc6.png) and sort by author/title/date in Internet Explorer 7 natively.
 
-**Solution**: We devised a means to create an [Automated New Books list for Primo](https://cloud.githubusercontent.com/assets/15346304/10923512/4352edb4-8236-11e5-9ec8-8ca44121f3f1.png), which appears in both our default and New Books search scopes.  Our New Books list uses a custom Alma Analysis to retrieve a list of Alma MMSIDs for print books received in the last 7 days.  The Alma Analysis is scheduled to run daily and emails the list of Alma MMSIDS as a .txt attachment to our cloud based Box.com email address.  Next, a custom shell script retrieves the list of Alma MMSIDs for new books via FTP from our Box.com account.  Other custom shell scripts then loop through the list of MMSIDs calling the Alma Bibs API to retrieve the bibliographic records, and format and output the bibliographic records to our harvesting pipe in Primo.  
+**Solution**: We devised a means to create an [Automated New Books list for Primo](https://cloud.githubusercontent.com/assets/15346304/14185831/6057e6fc-f730-11e5-91d9-b0e61a5cdf7c.png), which appears in both our default and New Books search scopes.  Our New Books list uses a custom Alma Analysis to retrieve a list of Alma MMSIDs for print books received in the last 7 days.  The Alma Analysis is scheduled to run daily and emails the list of Alma MMSIDS as a .txt attachment to our cloud based Box.com email address.  Next, a custom shell script retrieves the list of Alma MMSIDs for new books via FTP from our Box.com account.  Other custom shell scripts then loop through the list of MMSIDs calling the Alma Bibs API to retrieve the bibliographic records, and format and output the bibliographic records to our harvesting pipe in Primo.  
 
 Special thanks go to my supervisor, Joe and colleagues for helping me get this to work:
 
@@ -21,7 +21,7 @@ Special thanks go to my supervisor, Joe and colleagues for helping me get this t
 > Joshua Gomez, Software Engineer Senior<br/>
 > Lawrence Olliffe, Software Engineer
 
-**[Working New Books List](http://primo.getty.edu/primo_library/libweb/action/search.do?ct=facet&fctN=facet_local38&fctV=All+Books+Received+in+the+Last+7+Days&rfnGrp=1&rfnGrpCounter=1&frbg=&vl%2896033584UI1%29=all_items&&indx=1&fn=search&dscnt=0&scp.scps=scope%3A%28GETTY_NEWBOOKS%29%2Cscope%3A%28GRI_RA%29&vl%281UIStartWith0%29=contains&vl%2821781791UI0%29=any&mode=Basic&vid=GRI&ct=search&srt=rank&tab=all_gri&dum=true&vl%28freeText0%29=getty&dstmp=1457549124995etty&dstmp=1457549124995)**
+**[Working New Books List](http://primo.getty.edu/primo_library/libweb/action/search.do?ct=facet&fctN=facet_local38&fctV=All+Books+Received+in+the+Last+7+Days&rfnGrp=1&rfnGrpCounter=1&frbg=&vl%2896033584UI1%29=all_items&&indx=1&fn=search&dscnt=0&scp.scps=scope%3A%28GETTY_NEWBOOKS%29%2Cscope%3A%28GRI_RA%29&vl%281UIStartWith0%29=contains&vl%2821781791UI0%29=any&vid=GRI&mode=Basic&ct=search&srt=rank&tab=all_gri&dum=true&vl%28freeText0%29=alma&dstmp=1459443460749)**
 
 Our [process](https://cloud.githubusercontent.com/assets/15346304/10766824/7f731940-7c96-11e5-9697-3f96376b2477.png) is outlined in the steps below:
 

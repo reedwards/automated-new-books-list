@@ -29,7 +29,7 @@ Our [process](https://cloud.githubusercontent.com/assets/15346304/10766824/7f731
 
 > Step 2: Make sure you have a Business or Enterprise [Box.com account](https://github.com/reedwards/automated-new-books-list/wiki/Step 2: Create Box.com account). (Disregard this step if you use the Alma Analytics API to retrieve less than 1000 received books in the last 7 days.)
 
-> Step 3: [Manage](https://github.com/reedwards/automated-new-books-list/wiki/Step 3: Manage Alma Analysis) your Alma Analysis. (Disregard this step if you are using the Alma Analytics API to retrieve your list of less than 1000 books received in the last 7 days.)
+> Step 3: [Manage](https://github.com/reedwards/automated-new-books-list/wiki/Step 3: Manage Alma Analysis) your Alma Analysis. (Disregard this step if you use the Alma Analytics API to retrieve less than 1000 received books in the last 7 days.)
 
 > Step 4: Get the [code](https://github.com/reedwards/automated-new-books-list/wiki/Step 4: Get the Code).
 

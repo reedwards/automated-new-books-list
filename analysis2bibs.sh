@@ -39,13 +39,13 @@ cat /exlibris/primo/newTitles/mmsids_wolabel.txt|
 # and we didn't want to be involved with complicated multiple API calls, resumption tokens, loops, python scripts, etc...
 
 #use booksReceived.xml and report_js.xsl to isolate mmsids
-# /exlibris/primo/p4_1/product/local/java/bin/java -jar /exlibris/primo/newTitles/saxon9he.jar -s:/exlibris/primo/newTitles/booksReceived.xml -xsl:/exlibris/primo/newTitles/report_js.xsl -o:/exlibris/primo/newTitles/mmsids.txt
+#/exlibris/primo/p4_1/product/local/java/bin/java -jar /exlibris/primo/newTitles/saxon9he.jar -s:/exlibris/primo/newTitles/booksReceived.xml -xsl:/exlibris/primo/newTitles/report_js.xsl -o:/exlibris/primo/newTitles/mmsids.txt
  
 #send mmsids.out to loop to create Alma Retrieve Bib record API lines to output Alma bib records
 # cat /exlibris/primo/newTitles/mmsids.txt|
-#  while read ids 
-#      do curl -G 'https://api-na.hosted.exlibrisgroup.com/almaws/v1/bibs/${ids}?expand=p_avail&apikey={your_api_key}' -o /exlibris/primo/newTitles/records/bibrec_${ids}.xml
-#      done
+# while read ids 
+#      do echo "curl -G 'https://api-na.hosted.exlibrisgroup.com/almaws/v1/bibs/$ids?expand=p_avail&apikey={your_api_key}' -o /exlibris/primo/newTitles/records/bibrec_$ids.xml" >> /exlibris/primo/newTitles/bibs.sh
+#  done
  
 #change permissions on bibs.sh
 chmod 755 /exlibris/primo/newTitles/bibs.sh

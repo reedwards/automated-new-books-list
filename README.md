@@ -31,6 +31,6 @@ Our [process](https://cloud.githubusercontent.com/assets/15346304/10766824/7f731
 
 > Step 3: [Manage](https://github.com/reedwards/automated-new-books-list/wiki/Step-3:-Manage-Alma-Analysis) your Alma Analysis. (Disregard this step if you use an Alma Analytics API call to retrieve less than 1000 received books in the last X days.)
 
-> Step 4: Get the [code](https://github.com/reedwards/automated-new-books-list/wiki/Step 4: Get the Code).
+> Step 4: Get the [code](https://github.com/reedwards/automated-new-books-list/wiki/Step-4:-Get-the-Code).
 
 > Step 5: Customize the Primo [Back Office](https://github.com/reedwards/automated-new-books-list/wiki/Step-5:-Customize-Back-Office).

@@ -25,7 +25,7 @@ Special thanks go to my supervisor, Joe and colleagues for helping me get this t
 
 Our [process](https://cloud.githubusercontent.com/assets/15346304/10766824/7f731940-7c96-11e5-9697-3f96376b2477.png) is outlined in the steps below:
 
-> Step 1: Create the [Alma Analysis](https://github.com/reedwards/automated-new-books-list/wiki/Step 1: Create Alma Analysis).
+> Step 1: Create the [Alma Analysis](https://github.com/reedwards/automated-new-books-list/wiki/Step-1:-Create-Alma-Analysis).
 
 > Step 2: Make sure you have a Business or Enterprise [Box.com account](https://github.com/reedwards/automated-new-books-list/wiki/Step-2:-Use-Box.com-account). (Disregard this step if you use an Alma Analytics API call to retrieve less than 1000 received books in the last X days.)
 

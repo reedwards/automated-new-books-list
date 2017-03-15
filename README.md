@@ -33,4 +33,4 @@ Our [process](https://cloud.githubusercontent.com/assets/15346304/10766824/7f731
 
 > Step 4: Get the [code](https://github.com/reedwards/automated-new-books-list/wiki/Step 4: Get the Code).
 
-> Step 5: Customize the Primo [Back Office](https://github.com/reedwards/automated-new-books-list/wiki/Step 5: Customize Back Office).
+> Step 5: Customize the Primo [Back Office](https://github.com/reedwards/automated-new-books-list/wiki/Step-5:-Customize-Back-Office).
